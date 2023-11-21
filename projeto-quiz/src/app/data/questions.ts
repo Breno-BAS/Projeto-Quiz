@@ -9,7 +9,7 @@ export const questions: Question[] = [
             'Farinha',
             'Corante',
             'Água',
-            'Açucar'
+            'Açúcar'
         ],
         answer: 1
     }
